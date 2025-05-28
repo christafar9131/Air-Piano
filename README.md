@@ -1,5 +1,5 @@
 # Air-Piano
-==================================================================================================================
+===========================================================================================
 Air Piano: A Touchless Virtual Piano using Hand Gesture Recognition
 
 Objective:
@@ -57,4 +57,4 @@ Entertainment & Art: Great for digital performances or art installations involvi
 Conclusion:
 The Air Piano is a creative fusion of computer vision, gesture recognition, and digital sound synthesis, offering a futuristic, hygienic, and fun way to make music. It opens the door to new possibilities in human-computer interaction and digital creativity.
 
-=================================================================================================================
+=========================================================================================
