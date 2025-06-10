@@ -41,10 +41,13 @@ Libraries used :
 
 5. Entertainment & Art: Great for digital performances or art installations involving music and motion.
 
-### How to run the codes
+### How to run the code
 
-1. download the project as Zip.
-2. Extract the Zip 
+1. Download the project as a Zip.
+2. Extract the Zip file(Do not change file structures)
+3. Run the following command on the command prompt or terminal:
+> pip install -r requirements.txt
+4. Run the main.py Python file using any code editor or IDE.
 
 ### Conclusion:
 The Air Piano is a creative fusion of computer vision, gesture recognition, and digital sound synthesis, offering a futuristic, hygienic, and fun way to make music. It opens the door to new possibilities in human-computer interaction and digital creativity.
